@@ -5,5 +5,5 @@
   "devRoots": [
     "tests/"
   ],
-  "devFailureHandler": "Facebook\\Autoload\\HHClientFallbackHandler"
+  "devFailureHandler": "Facebook\\AutoloadMap\\HHClientFallbackHandler"
 }
